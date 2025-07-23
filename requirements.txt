@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+streamlit 
+plotly
+matplotlib
+streamlit-authenticator==0.2.3
+bcrypt
+
