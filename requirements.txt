@@ -2,8 +2,8 @@ pandas
 numpy
 openpyxl
 streamlit 
-plotly
+plotly>=6.1.1
 matplotlib
 streamlit-authenticator==0.2.3
 bcrypt
-kaleido>=0.2.1
+kaleido>=1.0.0
