@@ -6,4 +6,4 @@ plotly
 matplotlib
 streamlit-authenticator==0.2.3
 bcrypt
-
+kaleido>=0.2.1
