@@ -867,7 +867,7 @@ if auth_status:
         )    
 
         # Save the plot image
-        fig.write_image("engine_power_layout_diagram.png")  # Save the plot as a PNG file
+        fig.write_image("engine_power_layout_diagram.png", engine="kaleido") # Save the plot as a PNG file
 
         # Provide the download button for the plot image
         with open("engine_power_layout_diagram.png", "rb") as file:
